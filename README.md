@@ -2,8 +2,6 @@
 
 ### 📊 Data Analyst | Power BI | SQL | Python
 
-
-
 ---
 
 ## 🚀 About Me
@@ -70,8 +68,9 @@ Data cleaning and analysis using **Pandas and Python**.
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-📧 Email: your-email@example.com  
+💼 LinkedIn: https://www.linkedin.com/in/satishhs/  
+📧 Email: satishsanngowdar@gmail.com  
+📱 Phone: +91 9036397639  
 
 ---
 
